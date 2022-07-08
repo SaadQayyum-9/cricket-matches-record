@@ -6,5 +6,7 @@
 
 ## Instruction of 2 main functions in client:
 
-1) getPakistanCricketTeam() function will display only pakistan record
+1) getCricketTeam() function will display only selected team
 2) getData() functions will filter out the data according to query parameters (changeable) in the code
+3) deleteCountry()
+4) updateCountry()
